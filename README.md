@@ -1,7 +1,6 @@
 # Multi-Interest Self-Supervised Learning
 
-This is the code for our proposed model **Multi-Interest Self-Supervised Learning**. The experiment is conducted on n 2*NVIDIA GeForce RTX 2080ti GPU. 
-The code is built upon [MB-STR](https://github.com/yuanenming/mb-str).
+This is the code for our proposed model **Multi-Interest Self-Supervised Learning**. The experiment is conducted on n 2*NVIDIA GeForce RTX 2080ti GPU.  The code is built upon [MB-STR](https://github.com/yuanenming/mb-str).
 
 ## Requirements
 
