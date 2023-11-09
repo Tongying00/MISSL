@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ## Run MISSL
 
-- Train and validate the model on training set of  `Yelp`  with a `yaml` configuration file like following:
+- Train and validate the model on training set and validation set of  `Yelp`  with a `yaml` configuration file like following:
 
 ```bash
 python run.py fit --config src/configs/yelp/yelp_missl.yaml --data.develop True
