@@ -13,7 +13,9 @@ pip install -r requirements.txt
 
 ## Datasets
 
-- The `Yelp` dataset is already located in the `\data` folder. To obtain the other two public datasets, you can download them at: Google Drive: https://drive.google.com/file/d/1qOf2-Mwag0qzT6bPLFrQ7cNd_S1QDBbw/view?usp=drive_link
+- The `Yelp` dataset is already located in the `\data` folder. To obtain the other two public datasets, you can download them at:
+
+  Google Drive: https://drive.google.com/file/d/1qOf2-Mwag0qzT6bPLFrQ7cNd_S1QDBbw/view?usp=drive_link
 
   Baidu Drive: https://pan.baidu.com/s/1W5ASbe2rqpEEvpZccAZ3Ow?pwd=ey5h
 
