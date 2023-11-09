@@ -19,8 +19,15 @@ pip install -r requirements.txt
 
 ## Run MISSL
 
-- Run the model on `Yelp`  with a `yaml` configuration file like following:
+- Train and validate the model on training set of  `Yelp`  with a `yaml` configuration file like following:
 
 ```bash
-python run.py fit --config src/configs/yelp/yelp_missl.yaml
+python run.py fit --config src/configs/yelp/yelp_missl.yaml --data.develop True
 ```
+
+- Test the model on test set of  `Yelp`  with a `yaml` configuration file like following:
+
+```bash
+python run.py validate --config src/configs/yelp/yelp_missl.yaml --data.develop False --ckpt_path [yours ckpt path] 
+```
+
